@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+#main {
+  background-image: url("https://www.w3schools.com/w3css/img_pizza.jpg");
+  background-size: cover;
+  height: 800px;
+}
+
+#hero {
+  font-size: 100px;
+  color: white;
+}
+
+.amatic {
+  font-family: "Amatic SC";
+}
+
+body {
+  background-color: black
+}
+
+ .h3 {
+   color: white
+ }
